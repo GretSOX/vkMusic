@@ -1,0 +1,1 @@
+java -jar vkMusic.jar -t TOKEN -id ID_паблика_пользователя_вк
